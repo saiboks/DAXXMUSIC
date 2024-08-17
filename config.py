@@ -25,7 +25,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "hinatamusicassistant")
 # ---------------------------------------------------------
 UPSTREAM_REPO = UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vikas-851/DAXXMUSIC",
+    "https://github.com/saiboks/DAXXMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
